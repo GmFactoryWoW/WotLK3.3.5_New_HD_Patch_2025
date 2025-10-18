@@ -1,0 +1,45 @@
+{
+	"fileDataID": 3061845,
+	"textures": [
+		{
+			"fileDataID": 3061888,
+			"file": "stormpikebattlecharger_saddle.blp"
+		},
+		{
+			"fileDataID": 3061891,
+			"file": "stormpikebattlecharger_body.blp"
+		},
+		{
+			"fileDataID": 3061890,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 3061892,
+			"file": "stormpikebattlecharger00.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 3225896,
+			"file": "stormpikebattlecharger_lod01.skin"
+		},
+		{
+			"fileDataID": 3225897,
+			"file": "stormpikebattlecharger_lod02.skin"
+		},
+		{
+			"fileDataID": 3225898,
+			"file": "stormpikebattlecharger_lod03.skin"
+		}
+	],
+	"anims": [
+		{
+			"fileDataID": 3067326,
+			"file": "stormpikebattlecharger0061-00.anim",
+			"animID": 61,
+			"subAnimID": 0
+		}
+	]
+}
