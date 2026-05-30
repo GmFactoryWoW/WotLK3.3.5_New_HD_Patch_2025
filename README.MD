@@ -12,6 +12,9 @@ Not everything has been HD-ified, but a good part have been.
 
 The patch contains some raw ported model from retail client, but also a lot of custom models and textures.
 
+## DBCs files
+See CSVs files to see all the modifications (please use [WDBX Editor 1.0.4](https://github.com/WowDevTools/WDBXEditor/releases/download/1.0.4/WDBX.Editor.zip))
+
 ## Client requirements
 - Patched 3.3.5 client (for 4GB Ram & MPQ interface editing support)
 - Blizzlike content
