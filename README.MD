@@ -19,15 +19,18 @@ The patch contains some raw ported model from retail client, but also a lot of c
 ## Instructions for use
 If you want to implement this repository on your server (presumably monetized) for your player base, please take the time to credit everyone who created it.
 
-As for the intellectual property of Bl'zzard and M'crosoft, there's obviously no moral problem with completely disregarding it and rendering it obsolete. The day a capitalist structure actually cares about its workforce and artists, pigs will fly; the end of lucrative ownership is still a long way off.
+You don't have the authorization to modify/edit [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social) custom assets without proper authorization.
 
-# Credits and SO
+As for the intellectual property of Bl'zzard and M'crosoft, there's obviously no moral problem with completely disregarding it and rendering it obsolete. The day a capitalist structure actually cares about its workforce and artists, pigs will fly.
+On a legal level, however, rofl.
+
+## Credits and SO
 - Finsternis
 - Morfium
 - Atraxian
-- Kraulspine
-- TomKek
-- The instigator of this repository, valsan-azerty-boi
+- [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
+- [TomKek](https://www.youtube.com/@Tomkektv)
+- The instigator of this repository: [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
 <br />
