@@ -22,18 +22,19 @@ See CSVs files to see all the modifications (please use [WDBX Editor 1.0.4](http
 ## Instructions for use
 If you want to implement this repository on your server (presumably monetized) for your player base, please take the time to credit everyone who created it.
 
-You don't have the authorization to modify/edit [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social) custom assets without proper authorization.
+#### You don't have the authorization to modify/edit [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social) assets or [Epsilon](https://epsilonwow.net) assets without proper authorization.
 
 As for the intellectual property of Bl'zzard and M'crosoft, there's obviously no moral problem with completely disregarding it and rendering it obsolete. The day a capitalist structure actually cares about its workforce and artists, pigs will fly.
 On a legal level, however, rofl.
 
 ## Credits and SO
-- Finsternis
-- Morfium
-- Atraxian
+- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/)
+- [Morfium](https://github.com/Morfium-G)
+- [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
 - [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - [TomKek](https://www.youtube.com/@Tomkektv)
-- The instigator of this repository: [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
+- Dragonmash's [Epsilon team](https://epsilonwow.net)
+- Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
 <br />
